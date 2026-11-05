@@ -1,0 +1,1 @@
+To run it, open a terminal in that folder run: python -m streamlit run app.py, and u will go automatically to localhost:8501
